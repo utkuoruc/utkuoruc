@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤠, I'm Utku Oruç</h1>
-<h3 align="middle">I'm a CE student from Istanbul</h3>
+<h1 align="middle">I'm a CE student from Istanbul</h1>
 <h3 align="middle">Contact with me:</h3>
 <p align="middle">
 <a href="https://linkedin.com/in/utkuoruc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-user-name" height="25" width="40" /></a>
