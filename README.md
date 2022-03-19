@@ -15,4 +15,4 @@
 <a target="_blank" href="https://www.codewars.com/users/mexicola"><img src="https://www.codewars.com/users/mexicola/badges/large" alt="codewars badge large" /></a> </p>
 <h3 align="middle">Hackerrank acc:</h3>
 <p align="middle">
-<a target="_blank" href="https://www.hackerrank.com/utkuoruc"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="hackerrank logo" /></a> </p>
+<a target="_blank" href="https://www.hackerrank.com/utkuoruc"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="hackerrank logo" width="40" height="40"/></a> </p>
