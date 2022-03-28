@@ -17,3 +17,4 @@
 <h3 align="middle">Hackerrank</h3>
 <p align="middle">
  <a target="_blank" href="https://www.hackerrank.com/utkuoruc"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="hackerrank logo" width="80" height="80"/></a> </p>
+ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4nW5tsu5fsYO0loN0wLj3W?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
