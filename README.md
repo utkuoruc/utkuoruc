@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🤠, I'm Utku Oruç</h1>
 <h3 align="middle">I'm a CE student from Istanbul</h3>
-<h3 align="middle">Contact with me:</h3>
+<h3 align="middle">To contact:</h3>
 <p align="middle">
 <a href="https://linkedin.com/in/utkuoruc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-user-name" height="25" width="40" /></a>
 <a href="mailto:utku2oruc@gmail.com" target="blank"> <img img align="center" src="https://camo.githubusercontent.com/7a636997757a6b8fec8abc095b48cb88dafbf47318c709d81a5b563dae1c84e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d2532334242303031422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" ></a>
