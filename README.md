@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤠, I'm Utku Oruç</h1>
+<h1 align="center">Hi, I'm Utku Oruç</h1>
 <h3 align="middle">I'm a CE student from Istanbul, which interested in Android Development</h3>
 <h3 align="middle">Personal Website</h3>
 <a href="https://utkuoruc.github.io/blog/"><p align="middle">Go to my personal website</p></a>
