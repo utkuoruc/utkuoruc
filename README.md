@@ -27,13 +27,13 @@
     <td align="center" width="300">
       <p><b>Macro Digital Web</b></p>
       <a href="https://macrodigitalweb.com/" target="_blank">
-        <img src="https://macrodigitalweb.com/favicon.ico" alt="Macro Digital Web" height="40"/>
+        <img src="https://macrodigitalweb.com/logo.svg" alt="Macro Digital Web" height="40"/>
       </a>
     </td>
     <td align="center" width="300">
       <p><b>Kaynarca Tesisat</b></p>
       <a href="https://kaynarcatesisat.com/" target="_blank">
-        <img src="https://kaynarcatesisat.com/favicon.ico" alt="Kaynarca Tesisat" height="40"/>
+        <img src="https://kaynarcatesisat.com/brand-mark.svg" alt="Kaynarca Tesisat" height="40"/>
       </a>
     </td>
     <td align="center" width="300"></td>
