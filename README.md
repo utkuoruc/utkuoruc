@@ -109,9 +109,11 @@ They fix the pipes. We build the websites.
 <h2 align="center">WHY WAIT?</h2>
 
 <p align="center">
-  Websites. Applications. Digital Solutions.
+  I believe that every business deserves a great digital presence.
   <br/>
-  <b>Let's make something happen.</b>
+  No matter how big or small, your business deserves to be seen, heard, and remembered.
+  <br/>
+  <b>And that's why I fight for you.</b>
 </p>
 
 <p align="center">
