@@ -1,8 +1,6 @@
 <h1 align="center">Hi, 👋</h1>
 <h3 align="center">It's me</h3>
 
-<p align="center">Software Engineer</p>
-
 ## Selected Projects
 
 <a href="https://play.google.com/store/apps/details?id=io.dust.tutapp">
