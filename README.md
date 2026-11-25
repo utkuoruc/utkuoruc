@@ -13,21 +13,36 @@
     <td align="center" width="300">
       <p><b>istanbuldireksiyondersi.net</b></p>
       <a href="https://istanbuldireksiyondersi.net/" target="_blank">
-        <img src="https://istanbuldireksiyondersi.net/favicon.ico" alt="Website" height="40" />
+        <img src="https://istanbuldireksiyondersi.net/favicon.ico" alt="Website" height="40"/>
       </a>
     </td>
     <td align="center" width="300">
       <p><b>Dayı Jant Lastik</b></p>
       <a href="https://dayiotojantlastik.com/" target="_blank">
-        <img src="https://dayiotojantlastik.com/favicon.ico" alt="Website" height="40" />
+        <img src="https://dayiotojantlastik.com/favicon.ico" alt="Website" height="40"/>
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <p><b>Macro Digital Web</b></p>
+      <a href="https://macrodigitalweb.com/" target="_blank">
+        <img src="https://macrodigitalweb.com/favicon.ico" alt="Macro Digital Web" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <p><b>Kaynarca Tesisat</b></p>
+      <a href="https://kaynarcatesisat.com/" target="_blank">
+        <img src="https://kaynarcatesisat.com/favicon.ico" alt="Kaynarca Tesisat" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="300"></td>
   </tr>
 </table>
 
 <h3 align="middle">To contact:</h3>
 <p align="middle">
-<a href="https://linkedin.com/in/utkuoruc" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkuoruc" height="25" width="40" />
-</a>
+  <a href="https://linkedin.com/in/utkuoruc" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkuoruc" height="25" width="40"/>
+  </a>
 </p>
